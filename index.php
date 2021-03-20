@@ -1,5 +1,5 @@
 <?php
 
- print "Hi this is test env";
+ print "Hi this is test env form cli";
 
 ?>
